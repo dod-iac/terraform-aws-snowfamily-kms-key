@@ -18,7 +18,6 @@
  * }
  * ```
  *
- *
  * ## Terraform Version
  *
  * Terraform 0.13. Pin module version to ~> 1.0.0 . Submit pull-requests to main branch.
